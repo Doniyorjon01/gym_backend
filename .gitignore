@@ -1,4 +1,11 @@
 .env
-.idea
-.venv
+.venv/
+venv/
+env/
+*.log
 .idea/
+.vscode/
+*.swp
+.DS_Store
+
+*.sqlite3
